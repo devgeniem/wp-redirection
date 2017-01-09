@@ -1,0 +1,16 @@
+{
+    "name": "zArubaru/wp-redirection",
+    "type": "wordpress-plugin",
+    "description": "Redirection plugin",
+    "authors": [
+        {
+            "name": "John Godley",
+            "homepage": "https://wordpress.org/plugins/redirection/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "^1.0.12"
+    }
+}
